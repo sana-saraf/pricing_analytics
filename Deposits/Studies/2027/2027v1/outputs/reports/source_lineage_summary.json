@@ -1,0 +1,53 @@
+{
+  "study": "2027v1",
+  "asofdate": "2026-10-31",
+  "source_tables_mode": "production",
+  "generated": "2026-11-18T01:15:23",
+  "sources": [
+    {
+      "source": "SNV (lsnv_nmds)",
+      "table": "finance.pricing_analytics.lsnv_nmds",
+      "status": "ok",
+      "columns": 27,
+      "rows": 68957311,
+      "total_balance": 3466570448144.6045,
+      "accounts": 1432333,
+      "min_date": "2019-01-31",
+      "max_date": "2026-10-31",
+      "months": 94
+    },
+    {
+      "source": "PNFP (pnfp_deposits)",
+      "table": "finance.ftp_validation.pnfp_deposits",
+      "status": "ok",
+      "columns": 25,
+      "rows": 56921310,
+      "total_balance": 3124514615678.675,
+      "accounts": 928336,
+      "min_date": "2017-12-31",
+      "max_date": "2026-10-31",
+      "months": 107
+    },
+    {
+      "source": "Fed Funds",
+      "table": "finance.operational_deposits.fed_funds_matrix",
+      "status": "ok",
+      "columns": 4,
+      "rows": 6627
+    },
+    {
+      "source": "Dim NMD",
+      "table": "finance.reference.dim_nmd",
+      "status": "ok",
+      "columns": 11,
+      "rows": 507
+    },
+    {
+      "source": "Product Grouping",
+      "table": "silver_prod.reference_data.vxref_fin_products_grouping_deposits",
+      "status": "ok",
+      "columns": 25,
+      "rows": 219
+    }
+  ]
+}

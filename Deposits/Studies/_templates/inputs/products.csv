@@ -1,0 +1,37 @@
+product_id,product_name,product_code,short_name,client_group
+1,Brokered DDA,20091300,BrkDDA,Commercial
+2,Brokered MMA,20091400,BrkMMA,Commercial
+3,IB DDA Commercial Exception,20026000,IBComExp,Commercial
+4,IB DDA Commercial Indexed,20027000,IBComIdx,Commercial
+5,IB DDA Commercial Standard,20028000,IBComStd,Commercial
+6,IB DDA Commercial Standard Plus,20028100,IBComStdPls,
+7,IB DDA Consumer Exception,20030000,IBConExp,Consumer
+8,IB DDA Consumer Indexed,20031000,IBConIdx,Consumer
+9,IB DDA Consumer Standard,20032000,IBConStd,Consumer
+10,IB DDA Hybrid Commercial,20034000,IBHybCom,Commercial
+11,IB DDA Hybrid Public Funds,20035000,IBHybPF,Public Funds
+12,IB DDA IOLTA,20036000,IBIOLTA,Commercial
+13,IB DDA Public Funds,20033000,IBPF,Public Funds
+14,ICS IB DDA Commercial,20037000,ICSIBCom,Commercial
+15,ICS IB DDA Public Funds,20038000,ICSIBPF,Public Funds
+16,ICS MMA Commercial,20041000,ICSMMACom,Commercial
+17,ICS MMA Public Funds,20042000,ICSMMAPF,Public Funds
+18,Internal Deposits,20090600,IntDep,Internal
+19,MMA Commercial Exception,20046000,MMAComExp,Commercial
+20,MMA Consumer Exception,20050000,MMAConExp,Consumer
+21,MMA Consumer Standard,20052000,MMAConStd,Consumer
+22,MMA Public Funds,20053000,MMAPF,Public Funds
+23,NIB DDA Commercial,20006000,NIBCom,Commercial
+24,NIB DDA Consumer,20005000,NIBCon,Consumer
+25,NIB DDA Public Funds,20007000,NIBPF,Public Funds
+26,Repo Commercial,20098000,RepoCom,Commercial
+27,Repo Public Funds,20098500,RepoPF,Public Funds
+28,Savings Commercial,20013000,SavCom,Commercial
+29,Savings Consumer,20014000,SavCon,Consumer
+30,Savings Public Funds,20015000,SavPF,Public Funds
+31,MMA Commercial Indexed,20047000,MMAComIdx,Commercial
+32,MMA Commercial Standard,20048000,MMAComStd,Commercial
+33,MMA Consumer Indexed,20051000,MMAConIdx,Consumer
+34,ICS NIB DDA Commercial,20039000,ICSNIBCom,Commercial
+35,MMA Consumer BDSP,20049000,MMABDSP,Consumer
+36,IB DDA Consumer BDSP,20029000,IBDDABDSP,Consumer

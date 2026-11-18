@@ -1,0 +1,56 @@
+product_group,truncation_point,predicted_trunc_30_pct,predicted_trunc_25_pct,predicted_trunc_20_pct
+DDA - Analyzed,96,146,157,169
+DDA - NonAnalyzed,96,146,157,169
+DDA - Public,60,146,157,169
+ICK - Business,96,132,142,153
+ICK - Consumer,96,132,142,153
+ICK - Exception,72,132,142,153
+ICK - HSA,96,132,142,153
+ICK - IOLTA,96,132,142,153
+ICK - Public,36,132,142,153
+ICK - Trust,60,132,142,153
+ICS - Negotiated,60,110,118,126
+MMDA - Aggregated,60,128,138,148
+MMDA - Fed Funds,60,128,138,148
+MMDA - Public,60,128,138,148
+MMDA - RJBrokerage,60,128,138,148
+Savings - Exception,96,117,127,136
+Savings - Regular,96,117,127,136
+Savings - Sweep Collateralized,96,117,127,136
+DDA Commercial,144,107,115,124
+DDA Consumer,144,107,115,124
+DDA ICS,144,107,115,124
+DDA Other,144,107,115,124
+DDA Small Business,144,107,115,124
+MMA Commercial Exception,90,89,96,102
+MMA Commercial Index,90,89,96,102
+MMA Commercial Standard,90,89,96,102
+MMA Consumer Exception,90,89,96,102
+MMA Consumer Index,90,89,96,102
+MMA Consumer Standard,90,89,96,102
+NOW Commercial Exception,96,106,114,122
+NOW Commercial Hybrid,144,106,114,122
+NOW Commercial Standard,144,106,114,122
+NOW Consumer Exception,96,106,114,122
+NOW Consumer Standard,144,106,114,122
+SAV Commercial Exception,144,105,113,122
+SAV Commercial Standard,144,105,113,122
+SAV Consumer Exception,144,105,113,122
+SAV Consumer Standard,144,105,113,122
+SAV Public Funds Exception,54,111,120,128
+SAV Public Funds Standard,54,111,120,128
+DDA Public Funds,90,111,120,128
+MMA Public Funds Exception,90,111,120,128
+MMA Public Funds Index,90,111,120,128
+MMA Public Funds Standard,90,111,120,128
+NOW Public Funds Exception,54,111,120,128
+NOW Public Funds Hybrid,54,111,120,128
+NOW Public Funds Index,54,111,120,128
+NOW Public Funds Standard,54,111,120,128
+ICS - Fed Funds,1,,,
+ICK - Fed Funds,1,,,
+NOW Commercial ICS,1,,,
+NOW Commercial Index,1,,,
+NOW Consumer Index,1,,,
+NOW Public Funds ICS,1,,,
+Sav Public Funds Index,1,,,

@@ -1,0 +1,13 @@
+{
+  "study_name": "2027v1",
+  "year": 2027,
+  "version": "v1",
+  "parent": "scratch",
+  "created": "2026-11-18T01:12:22",
+  "created_by": "spark-b48c7c21-ed19-4e51-a58c-0f",
+  "status": "draft",
+  "kind": "deposit_study",
+  "template": "_templates",
+  "source_version": "2027v1",
+  "notes": ""
+}

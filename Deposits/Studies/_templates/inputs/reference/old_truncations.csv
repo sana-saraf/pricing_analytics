@@ -1,0 +1,37 @@
+product_name,old_truncation_point,old_months_to_30,old_months_to_25,old_months_to_20,trunc_balance_share
+NIB DDA Commercial,120.0,126.5,136.0,146.5,0.9977
+MMA Commercial Indexed,65.3,121.1,130.6,139.8,1.0
+MMA Commercial Exception,88.1,91.5,98.7,104.9,1.0
+MMA Commercial Standard,81.4,100.2,108.0,115.2,1.0
+IB DDA Public Funds,51.1,114.4,123.5,132.0,1.0
+ICS IB DDA Commercial,9.9,110.0,118.0,126.0,1.0
+IB DDA Consumer Standard,125.8,115.6,124.3,133.4,0.9655
+Brokered MMA,60.0,128.0,138.0,148.0,0.9994
+MMA Consumer Indexed,60.0,128.0,138.0,148.0,1.0
+NIB DDA Consumer,129.4,118.8,127.7,137.6,1.0
+ICS IB DDA Public Funds,8.5,110.0,118.0,126.0,1.0
+IB DDA Hybrid Commercial,62.4,127.9,137.7,148.1,1.0
+IB DDA Commercial Indexed,1.1,132.0,142.0,153.0,1.0
+MMA Public Funds,87.3,112.5,121.6,129.8,1.0
+IB DDA Commercial Exception,93.9,108.3,116.4,124.7,1.0
+MMA Consumer Standard,65.9,120.4,129.8,139.0,1.0
+IB DDA Commercial Standard,133.5,111.7,120.1,128.8,1.0
+Savings Consumer,123.6,110.1,119.0,128.0,0.9966
+IB DDA IOLTA,127.2,115.1,123.8,132.9,1.0
+IB DDA Commercial Standard Plus,60.0,132.0,142.0,153.0,1.0
+ICS MMA Public Funds,1.0,110.0,118.0,126.0,1.0
+Brokered DDA,60.0,128.0,138.0,148.0,0.9924
+ICS MMA Commercial,5.4,110.0,118.0,126.0,1.0
+MMA Consumer BDSP,90.0,89.0,96.0,102.0,1.0
+NIB DDA Public Funds,79.7,123.0,132.7,142.1,1.0
+IB DDA Consumer Indexed,2.0,132.0,142.0,153.0,1.0
+MMA Consumer Exception,69.1,116.1,125.2,134.0,1.0
+Savings Commercial,115.4,112.1,121.3,130.3,1.0
+Repo Commercial,96.0,117.0,127.0,136.0,1.0
+ICS NIB DDA Commercial,22.4,107.0,115.0,124.0,1.0
+NIB DDA Internal,144.0,107.0,115.0,124.0,1.0
+IB DDA Consumer BDSP,1.0,,,,1.0
+Repo Public Funds,96.0,117.0,127.0,136.0,1.0
+IB DDA Consumer Exception,81.4,122.9,132.2,142.2,1.0
+IB DDA Hybrid Public Funds,36.0,132.0,142.0,153.0,1.0
+Savings Public Funds,56.2,111.3,120.4,128.4,1.0

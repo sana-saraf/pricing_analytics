@@ -1,0 +1,20 @@
+{
+  "stage": "done",
+  "history": [
+    {
+      "at": "2026-11-06 11:33:22",
+      "stage": "done",
+      "note": "00_run_study: RunAll"
+    },
+    {
+      "at": "2026-11-06 12:12:22",
+      "stage": "done",
+      "note": "betas saved (apply edits, 0 changes)"
+    },
+    {
+      "at": "2026-11-06 14:28:18",
+      "stage": "done",
+      "note": "00_run_study: RunAll"
+    }
+  ]
+}

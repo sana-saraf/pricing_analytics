@@ -1,0 +1,507 @@
+﻿legacy_bank,acct_typ_code,acct_typ_desc,subproductid,product_group,client_group,rate_class,bdsp_flag,pf_flag,product,product_num
+PNFP,3C,Internal Subsidiary,3C_000_00,IB DDA,Internal,Standard,N,N,Internal Deposits,20090600
+PNFP,3G,Internal DDA,3G_000_00,IB DDA,Internal,Standard,N,N,Internal Deposits,20090600
+PNFP,3H,Controlled Disburse,3H_000_00,IB DDA,Internal,Standard,N,N,Internal Deposits,20090600
+PNFP,3Z,Brokered InterestDDA,3Z_082_00,Brokered DDA,Commercial,Exception,N,N,Brokered DDA,20091300
+PNFP,3Z,Brokered InterestDDA,3Z_000_01,Brokered DDA,Commercial,Indexed,N,N,Brokered DDA,20091300
+PNFP,3Z,Brokered InterestDDA,3Z_000_00,Brokered DDA,Commercial,Standard,N,N,Brokered DDA,20091300
+PNFP,3I,Brokered InterestDDA,3I_082_00,Brokered DDA,Commercial,Exception,N,N,Brokered DDA,20091300
+PNFP,3I,Brokered InterestDDA,3I_000_00,Brokered DDA,Commercial,Standard,N,N,Brokered DDA,20091300
+PNFP,4E,Brokered Money Mkt,4E_000_01,Brokered MMA,Commercial,Indexed,N,N,Brokered MMA,20091400
+PNFP,4E,Brokered Money Mkt,4E_082_00,Brokered MMA,Commercial,Exception,N,N,Brokered MMA,20091400
+PNFP,4E,Brokered Money Mkt,4E_000_00,Brokered MMA,Commercial,Standard,N,N,Brokered MMA,20091400
+PNFP,IM,IND MMA,IM_000_00,Brokered MMA,Commercial,Standard,N,N,Brokered MMA,20091400
+PNFP,7G,DNC Brokered MM,7G_082_00,Brokered MMA,Commercial,Exception,N,N,Brokered MMA,20091400
+PNFP,3G,Internal DDA,3G_000_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,1D,Assoc Vista Ck,1D_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1D,Assoc Vista Ck,1D_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+PNFP,G2,Senior Ckg G2,G2_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,3U,Prem Bus Int DDA,3U_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,1N,Senior Checking,1N_000_01,IB DDA,Consumer,Indexed,N,N,IB DDA Consumer Indexed,20031000
+PNFP,1T,HSA Investment FAM,1T_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+PNFP,7I,DNC Senior Checking,7I_000_01,IB DDA,Consumer,Indexed,N,N,IB DDA Consumer Indexed,20031000
+PNFP,3U,Prem Bus Int DDA,3U_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+PNFP,3J,Raymond James InvRes,3J_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+PNFP,3J,Raymond James InvRes,3J_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,3U,Prem Bus Int DDA,3U_000_01,IB DDA,Commercial,Indexed,N,N,IB DDA Commercial Indexed,20027000
+PNFP,7I,DNC Senior Checking,7I_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1N,Senior Checking,1N_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1N,Senior Checking,1N_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+PNFP,1D,Assoc Vista Ck,1D_000_01,IB DDA,Consumer,Indexed,N,N,IB DDA Consumer Indexed,20031000
+PNFP,1E,Health Savings Ind,1E_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1Q,Grizzlies Premium,1Q_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+PNFP,3M,Summit Business NOW,3M_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,1W,Wealth Checking,1W_000_01,IB DDA,Consumer,Indexed,N,N,IB DDA Consumer Indexed,20031000
+PNFP,3T,Horizon Interest,3T_000_01,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,8H,Interest Ckg 26,8H_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1B,Interest Checking,1B_000_01,IB DDA,Consumer,Indexed,N,N,IB DDA Consumer Indexed,20031000
+PNFP,1W,Wealth Checking,1W_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,BB,Horizon Interest BB,BB_082_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,1W,Wealth Checking,1W_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+PNFP,1Q,Grizzlies Premium,1Q_000_01,IB DDA,Consumer,Indexed,N,N,IB DDA Consumer Indexed,20031000
+PNFP,BI,Horizon Interest BI,BI_082_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,1E,Health Savings Ind,1E_000_01,IB DDA,Consumer,Indexed,N,N,IB DDA Consumer Indexed,20031000
+PNFP,8I,Vista Int Ckg 45,8I_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,3M,Summit Business NOW,3M_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+PNFP,1Q,Grizzlies Premium,1Q_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,8I,Vista Int Ckg 45,8I_000_01,IB DDA,Commercial,Indexed,N,N,IB DDA Commercial Indexed,20027000
+PNFP,C2,Interest Ckg C2,C2_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1B,Interest Checking,1B_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+PNFP,1E,Health Savings Ind,1E_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+PNFP,3T,Horizon Interest,3T_000_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,8H,Interest Ckg 26,8H_000_01,IB DDA,Consumer,Indexed,N,N,IB DDA Consumer Indexed,20031000
+PNFP,3M,Summit Business NOW,3M_000_01,IB DDA,Commercial,Indexed,N,N,IB DDA Commercial Indexed,20027000
+PNFP,3T,Horizon Interest,3T_082_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,1B,Interest Checking,1B_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,96,MAHT,96_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+PNFP,3C,Internal Subsidiary,3C_000_01,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,SC,Horizon Interest SC,SC_082_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,8G,Interest Ckg 23,8G_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,3R,Horizon 75,3R_000_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,SP,Vista Interest SP,SP_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,7J,DNC Summit Bus NOW,7J_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,14,Spotlight Premium Ck,14_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,14,Spotlight Premium Ck,14_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+PNFP,7K,DNC Vista Int Ckg,7K_000_01,IB DDA,Commercial,Indexed,N,N,IB DDA Commercial Indexed,20027000
+PNFP,3C,Internal Subsidiary,3C_082_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,C5,Rewards Checking,C5_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,79,Vista Int Ckg 62,79_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,C1,Interest Ckg C1,C1_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,7J,DNC Summit Bus NOW,7J_000_01,IB DDA,Commercial,Indexed,N,N,IB DDA Commercial Indexed,20027000
+PNFP,7H,DNC Interest Ckg,7H_000_01,IB DDA,Commercial,Indexed,N,N,IB DDA Commercial Indexed,20027000
+PNFP,3C,Internal Subsidiary,3C_000_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,14,Spotlight Premium Ck,14_000_01,IB DDA,Consumer,Indexed,N,N,IB DDA Consumer Indexed,20031000
+PNFP,7K,DNC Vista Int Ckg,7K_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,78,Interest Ckg 64,78_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,G1,Interest Ckg G1,G1_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1C,Prime Checking,1C_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,7H,DNC Interest Ckg,7H_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,Y1,Interest Ckg Y1,Y1_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1I,Titans Premium Ckg,1I_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1I,Titans Premium Ckg,1I_000_01,IB DDA,Consumer,Indexed,N,N,IB DDA Consumer Indexed,20031000
+PNFP,3M,Summit Business NOW,3M_000_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,3M,Summit Business NOW,3M_000_01,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,3M,Summit Business NOW,3M_082_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,CP,CP,CP_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+PNFP,1I,Titans Premium Ckg,1I_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+PNFP,3D,Public Funds Int,3D_082_00,IB DDA,Public Funds,null,N,N,IB DDA Public Funds,20033000
+PNFP,3D,Public Funds Int,3D_000_01,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,3T,Horizon Interest,3T_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,3T,Horizon Interest,3T_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+PNFP,3D,Public Funds Int,3D_000_01,IB DDA,Public Funds,null,N,N,IB DDA Public Funds,20033000
+PNFP,NI,Horizon Interest NI,NI_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,3T,Horizon Interest,3T_000_01,IB DDA,Commercial,Indexed,N,N,IB DDA Commercial Indexed,20027000
+PNFP,3D,Public Funds Int,3D_082_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,1R,Vista Interest Ckg,1R_000_01,IB DDA,Commercial,Indexed,N,N,IB DDA Commercial Indexed,20027000
+PNFP,ID,IND Int Checking,ID_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+PNFP,1R,Vista Interest Ckg,1R_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+PNFP,SC,Horizon Interest SC,SC_000_01,IB DDA,Commercial,Indexed,N,N,IB DDA Commercial Indexed,20027000
+PNFP,SC,Horizon Interest SC,SC_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,1R,Vista Interest Ckg,1R_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,1R,Vista Interest Ckg,1R_000_01,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,1R,Vista Interest Ckg,1R_082_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,C4,Elite Trust,C4_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1K,Premier Checking,1K_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1Z,Vista Int Ckg,1Z_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,1S,HSA Investment IND,1S_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+PNFP,BB,Horizon Interest BB,BB_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,77,Interest Ckg 16,77_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1F,Health Savings FAM,1F_000_01,IB DDA,Consumer,Indexed,N,N,IB DDA Consumer Indexed,20031000
+PNFP,SP,Vista Interest SP,SP_082_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,BI,Horizon Interest BI,BI_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,1R,Vista Interest Ckg,1R_000_00,IB DDA,Public Funds,null,N,Y,IB DDA Public Funds,20033000
+PNFP,C3,Interest Ckg C3,C3_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,B1,Interest Ckg B1,B1_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,BB,Horizon Interest BB,BB_000_01,IB DDA,Commercial,Indexed,N,N,IB DDA Commercial Indexed,20027000
+PNFP,1F,Health Savings FAM,1F_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1F,Health Savings FAM,1F_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+PNFP,Z3,Interest Ckg Z3,Z3_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,C7,Rewards Chk SC,C7_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+PNFP,1Z,Vista Int Ckg,1Z_000_01,IB DDA,Commercial,Indexed,N,N,IB DDA Commercial Indexed,20027000
+PNFP,3R,Horizon 75,3R_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+PNFP,3R,Horizon 75,3R_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+PNFP,2H,Business Sweep SAV,2H_000_01,IB DDA Hybrid,Public Funds,null,N,Y,IB DDA Hybrid Public Funds,20035000
+PNFP,AG,Escrow Master Acct,AG_000_00,IB DDA Hybrid,Public Funds,null,N,Y,IB DDA Hybrid Public Funds,20035000
+PNFP,2H,Business Sweep SAV,2H_000_01,IB DDA Hybrid,Commercial,null,N,N,IB DDA Hybrid Commercial,20034000
+PNFP,2H,Business Sweep SAV,2H_082_00,IB DDA Hybrid,Commercial,null,N,N,IB DDA Hybrid Commercial,20034000
+PNFP,3Y,Corp Liquidity DDA,3Y_000_01,IB DDA Hybrid,Commercial,null,N,N,IB DDA Hybrid Commercial,20034000
+PNFP,2H,Business Sweep SAV,2H_000_00,IB DDA Hybrid,Commercial,null,N,N,IB DDA Hybrid Commercial,20034000
+PNFP,AG,Escrow Master Acct,AG_000_00,IB DDA Hybrid,Commercial,null,N,N,IB DDA Hybrid Commercial,20034000
+PNFP,EG,Evergreen Corp Liq,EG_000_00,IB DDA Hybrid,Commercial,null,N,N,IB DDA Hybrid Commercial,20034000
+PNFP,9R,IOLTA - PA,9R_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9W,IOLTA - NC,9W_082_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9W,IOLTA - NC,9W_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,TA,IOLTA Account,TA_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,TA,IOLTA Account,TA_082_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9P,IOLTA - NM,9P_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9D,IOLTA - AR,9D_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9G,IOLTA - FL,9G_082_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,98,IOLTA - RI,98_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9G,IOLTA - FL,9G_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9I,IOLTA - IL,9I_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9E,IOLTA - CO,9E_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9K,IOLTA - KY,9K_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,92,IOLTA - MD,92_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9S,IOLTA - TX,9S_082_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9C,IOLTA - ALF - AL,9C_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9J,IOLTA - IN,9J_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9S,IOLTA - TX,9S_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9F,IOLTA - DC,9F_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9A,IOLTA - CA,9A_082_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9K,IOLTA - KY,9K_082_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9A,IOLTA - CA,9A_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9X,IOLTA - SC,9X_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9X,IOLTA - SC,9X_082_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9V,IOLTA - TN,9V_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9V,IOLTA - TN,9V_082_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,3F,IOLTA,3F_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,3F,IOLTA,3F_082_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9M,IOLTA - MI,9M_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9T,IOLTA - VA,9T_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9H,IOLTA - GA,9H_082_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9H,IOLTA - GA,9H_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9Y,IOLTA - OH,9Y_082_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9T,IOLTA - VA,9T_082_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,9Y,IOLTA - OH,9Y_000_00,IB DDA IOLTA,Commercial,null,N,N,IB DDA IOLTA,20036000
+PNFP,3K,ICS Shadow DDA,3K_000_00,ICS IB DDA,Commercial,null,N,N,ICS IB DDA,20037000
+PNFP,3K,ICS Shadow DDA,3K_000_00,ICS IB DDA,Public Funds,null,N,Y,ICS IB DDA Public Funds,20038000
+PNFP,4G,ICS Shadow MM,4G_082_00,ICS MMA,Commercial,null,N,N,ICS MMA,20041000
+PNFP,4G,ICS Shadow MM,4G_000_00,ICS MMA,Commercial,null,N,N,ICS MMA,20041000
+PNFP,4G,ICS Shadow MM,4G_000_00,ICS MMA,Public Funds,null,N,Y,ICS MMA Public Funds,20042000
+PNFP,7F,DNC Public Funds MM,7F_000_01,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,CM,CAP MMDA,CM_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+PNFP,71,Zenith MM 01,71_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,M6,Zenith MM M6,M6_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,8A,Outlook MM 36,8A_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,CM,CAP MMDA,CM_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+PNFP,CM,CAP MMDA,CM_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,2J,Zenith MM Pers Promo,2J_000_00,MMA,Consumer,Standard,N,N,MMA Consumer Standard,20052000
+PNFP,M6,Zenith MM M6,M6_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,2J,Zenith MM Pers Promo,2J_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,2J,Zenith MM Pers Promo,2J_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,7D,DNC Zenith MM Bus,7D_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,7F,DNC Public Funds MM,7F_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,71,Zenith MM 01,71_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,2D,Titans Money Market,2D_000_00,MMA,Consumer,Standard,N,N,MMA Consumer Standard,20052000
+PNFP,2C,Associate Zenith MM,2C_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,4A,Zenith MM Business,4A_000_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,81,Saber Investment MM,81_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,M3,Zenith MM M3,M3_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,2C,Associate Zenith MM,2C_000_00,MMA,Consumer,Standard,N,N,MMA Consumer Standard,20052000
+PNFP,4D,Public Funds MM,4D_000_00,MMA,Public Funds,null,N,N,MMA Public Funds,20053000
+PNFP,2C,Associate Zenith MM,2C_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,81,Saber Investment MM,81_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,74,Zenith MM Bus 21,74_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+PNFP,4H,Zenith MM Bus Promo,4H_000_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,2D,Titans Money Market,2D_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,M3,Zenith MM M3,M3_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,4B,Zenith MM Bus Prem,4B_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,74,Zenith MM Bus 21,74_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,8F,Zenith MM Bus 80,8F_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,4D,Public Funds MM,4D_082_00,MMA,Public Funds,null,N,N,MMA Public Funds,20053000
+PNFP,4H,Zenith MM Bus Promo,4H_000_01,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,2D,Titans Money Market,2D_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,4D,Public Funds MM,4D_000_01,MMA,Public Funds,null,N,N,MMA Public Funds,20053000
+PNFP,4A,Zenith MM Business,4A_000_01,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,4H,Zenith MM Bus Promo,4H_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,4A,Zenith MM Business,4A_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,2W,Wealth MM Pers,2W_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,4C,Bankruptcy TrusteeMM,4C_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,7E,DNC Bankrp TTEE MM,7E_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,2W,Wealth MM Pers,2W_000_00,MMA,Consumer,Standard,N,N,MMA Consumer Standard,20052000
+PNFP,7A,DNC Zenith MM,7A_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,87,Saber Non-Pers MM,87_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,4C,Bankruptcy TrusteeMM,4C_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+PNFP,E3,Zenith MM E3,E3_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,72,Assoc Outlook MMDA,72_000_00,MMA,Consumer,Standard,N,N,MMA Consumer Standard,20052000
+PNFP,4H,Zenith MM Bus Promo,4H_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,7A,DNC Zenith MM,7A_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,7B,DNC Outlook MM,7B_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,8F,Zenith MM Bus 80,8F_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,4C,Bankruptcy TrusteeMM,4C_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+PNFP,7B,DNC Outlook MM,7B_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,72,Assoc Outlook MMDA,72_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,M4,Zenith MM BusinessM4,M4_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,E3,Zenith MM E3,E3_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,M2,Zenith MM BusinessM2,M2_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,76,Public Funds MM 11,76_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,M1,Zenith MM M1,M1_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,4H,Zenith MM Bus Promo,4H_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+PNFP,2W,Wealth MM Pers,2W_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,73,Outlook MM 21,73_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,PM,Outlook MM PM,PM_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,8F,Zenith MM Bus 80,8F_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+PNFP,4H,Zenith MM Bus Promo,4H_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+PNFP,73,Outlook MM 21,73_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,72,Assoc Outlook MMDA,72_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,BM,Zenith MM BusinessBB,BM_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,PM,Outlook MM PM,PM_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,M7,Zenith MM BusinessM7,M7_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,PM,Outlook MM PM,PM_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,4D,Public Funds MM,4D_000_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,4D,Public Funds MM,4D_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,4D,Public Funds MM,4D_000_01,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,2B,Outlook MM,2B_000_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,M1,Zenith MM M1,M1_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,2A,Zenith MM Personal,2A_000_00,MMA,Consumer,Standard,N,N,MMA Consumer Standard,20052000
+PNFP,2A,Zenith MM Personal,2A_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,2A,Zenith MM Personal,2A_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,4A,Zenith MM Business,4A_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+PNFP,4A,Zenith MM Business,4A_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+PNFP,4A,Zenith MM Business,4A_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,3X,Wealth Trust MM,3X_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,3X,Wealth Trust MM,3X_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+PNFP,3X,Wealth Trust MM,3X_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+PNFP,8D,Outlook MM 68,8D_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,M4,Zenith MM BusinessM4,M4_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+PNFP,8C,Outlook MM 67,8C_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,2A,Zenith MM Personal,2A_000_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,4F,State of TN MM,4F_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,2B,Outlook MM,2B_000_00,MMA,Consumer,Standard,N,N,MMA Consumer Standard,20052000
+PNFP,M2,Zenith MM BusinessM2,M2_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,74,Zenith MM Bus 21,74_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,8B,Zenith MM Bus 56,8B_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,2B,Outlook MM,2B_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,X7,Money Market Comm WS,X7_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,7D,DNC Zenith MM Bus,7D_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,75,Public Funds MM 21,75_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,7D,DNC Zenith MM Bus,7D_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+PNFP,8B,Zenith MM Bus 56,8B_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+PNFP,88,Prem Saber Invest MM,88_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,M4,Zenith MM BusinessM4,M4_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,2A,Zenith MM Personal,2A_000_01,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,8D,Outlook MM 68,8D_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,M2,Zenith MM BusinessM2,M2_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+PNFP,E2,Zenith MM E2,E2_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,8C,Outlook MM 67,8C_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,M9,Correspondent MMKT,M9_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+PNFP,89,Prem Saber NonPer MM,89_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+PNFP,BM,Zenith MM BusinessBB,BM_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+PNFP,2B,Outlook MM,2B_000_01,MMA,Consumer,Indexed,N,N,MMA Consumer Indexed,20051000
+PNFP,BM,Zenith MM BusinessBB,BM_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+PNFP,2A,Zenith MM Personal,2A_082_00,MMA,Public Funds,null,N,Y,MMA Public Funds,20053000
+PNFP,84,Basic Commercial Ckg,84_082_00,NIB DDA,Commercial,Exception,N,N,NIB DDA Commercial,20006000
+PNFP,7C,DNC Pinn Public Fund,7C_082_00,NIB DDA,Public Funds,null,N,Y,NIB DDA Public Funds,20007000
+PNFP,3A,Vista Business,3A_000_00,NIB DDA,Public Funds,null,N,Y,NIB DDA Public Funds,20007000
+PNFP,7C,DNC Pinn Public Fund,7C_000_01,NIB DDA,Public Funds,null,N,Y,NIB DDA Public Funds,20007000
+PNFP,86,Commercial NOW,86_082_00,NIB DDA,Commercial,Exception,N,N,NIB DDA Commercial,20006000
+PNFP,1A,Basic Checking,1A_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+PNFP,1P,Grizzlies Plus Ckg,1P_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+PNFP,3N,Horizon 500,3N_000_00,NIB DDA,Public Funds,null,N,Y,NIB DDA Public Funds,20007000
+PNFP,3L,Horizon 300,3L_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+PNFP,3L,Horizon 300,3L_000_01,NIB DDA,Commercial,Indexed,N,N,NIB DDA Commercial,20006000
+PNFP,TR,Horizon TS 75,TR_000_00,NIB DDA,Public Funds,null,N,Y,NIB DDA Public Funds,20007000
+PNFP,3W,Collateral Reserve,3W_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+PNFP,1M,Balance Checking,1M_082_00,NIB DDA,Consumer,Exception,N,N,NIB DDA Consumer,20005000
+PNFP,1H,Titans Plus Checking,1H_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+PNFP,3E,Public Funds,3E_000_00,NIB DDA,Public Funds,null,N,N,NIB DDA Public Funds,20007000
+PNFP,TQ,Horizon TS 150,TQ_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+PNFP,3L,Horizon 300,3L_082_00,NIB DDA,Commercial,Exception,N,N,NIB DDA Commercial,20006000
+PNFP,83,Economy Business Ckg,83_082_00,NIB DDA,Commercial,Exception,N,N,NIB DDA Commercial,20006000
+PNFP,1O,Grizzlies Basic Ckg,1O_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+PNFP,LS,H & B LSA,LS_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+PNFP,3P,Official Bank Checks,3P_082_00,NIB DDA,Internal,Exception,N,N,Internal Deposits,20090600
+PNFP,TN,Horizon TS 500,TN_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+PNFP,7C,DNC Pinn Public Fund,7C_082_00,NIB DDA,Public Funds,null,N,N,NIB DDA Public Funds,20007000
+PNFP,1Y,Young Professional,1Y_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+PNFP,7C,DNC Pinn Public Fund,7C_000_01,NIB DDA,Public Funds,null,N,N,NIB DDA Public Funds,20007000
+PNFP,PB,Professional Bus Ck,PB_082_00,NIB DDA,Commercial,Exception,N,N,NIB DDA Commercial,20006000
+PNFP,82,Small Business,82_082_00,NIB DDA,Commercial,Exception,N,N,NIB DDA Commercial,20006000
+PNFP,C6,Perks Checking,C6_082_00,NIB DDA,Consumer,Exception,N,N,NIB DDA Consumer,20005000
+PNFP,1J,Titans Basic Ckg,1J_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+PNFP,3L,Horizon 300,3L_000_00,NIB DDA,Public Funds,null,N,Y,NIB DDA Public Funds,20007000
+PNFP,3B,Bankruptcy Trustee,3B_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+PNFP,TL,Horizon TS 300,TL_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+PNFP,3E,Public Funds,3E_000_00,NIB DDA,Public Funds,null,N,Y,NIB DDA Public Funds,20007000
+PNFP,1G,Titans Free Checking,1G_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+PNFP,13,Spotlight Plus Ck,13_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+PNFP,3A,Vista Business,3A_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+PNFP,3Q,Horizon 150,3Q_000_00,NIB DDA,Public Funds,null,N,Y,NIB DDA Public Funds,20007000
+PNFP,3Q,Horizon 150,3Q_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+PNFP,TR,Horizon TS 75,TR_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+PNFP,CD,CAP Checking,CD_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+PNFP,12,Spotlight Basic Ck,12_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+PNFP,3N,Horizon 500,3N_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+PNFP,1A,Basic Checking,1A_000_00,NIB DDA,Public Funds,null,N,Y,NIB DDA Public Funds,20007000
+PNFP,1L,Access Checking,1L_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+PNFP,8E,Pinn Public Fund 48,8E_082_00,NIB DDA,Public Funds,null,N,Y,NIB DDA Public Funds,20007000
+PNFP,4I,Repurchase Agrmt,4I_000_01,Repo,Public Funds,null,N,Y,Repo Public Funds,20098500
+PNFP,4I,Repurchase Agrmt,4I_000_00,Repo,Public Funds,null,N,Y,Repo Public Funds,20098500
+PNFP,4I,Repurchase Agrmt,4I_082_00,Repo,Public Funds,null,N,Y,Repo Public Funds,20098500
+PNFP,7O,DNC Repurchase Agrmt,7O_082_00,Repo,Commercial,null,N,N,Repo Commercial,20098000
+PNFP,7N,DNC Bus Sweep SAV 62,7N_082_00,Repo,Commercial,null,N,N,Repo Commercial,20098000
+PNFP,R,REPO Sweep,R_000_00,Repo,Public Funds,null,N,Y,Repo Public Funds,20098500
+PNFP,R,REPO Sweep,R_000_00,Repo,Commercial,null,N,N,Repo Commercial,20098000
+PNFP,7W,Repurchase Agrmt 63,7W_082_00,Repo,Commercial,null,N,N,Repo Commercial,20098000
+PNFP,7W,Repurchase Agrmt 63,7W_000_00,Repo,Commercial,null,N,N,Repo Commercial,20098000
+PNFP,R,REPO Sweep,R_082_00,Repo,Commercial,null,N,N,Repo Commercial,20098000
+PNFP,4I,Repurchase Agrmt,4I_082_00,Repo,Commercial,null,N,N,Repo Commercial,20098000
+PNFP,4I,Repurchase Agrmt,4I_000_00,Repo,Commercial,null,N,N,Repo Commercial,20098000
+PNFP,4I,Repurchase Agrmt,4I_000_01,Repo,Commercial,null,N,N,Repo Commercial,20098000
+PNFP,R1,REPO Sweep SAV R1,R1_082_00,Repo,Public Funds,null,N,Y,Repo Public Funds,20098500
+PNFP,R1,REPO Sweep SAV R1,R1_082_00,Repo,Commercial,null,N,N,Repo Commercial,20098000
+PNFP,2F,Vision Savings,2F_000_00,Savings,Public Funds,null,N,Y,Savings Public Funds,20015000
+PNFP,8L,Vision Business 66,8L_082_00,Savings,Commercial,null,N,N,Savings Commercial,20013000
+PNFP,RS,Cons Mastercard Sav,RS_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,RS,Cons Mastercard Sav,RS_000_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,2I,Beginner Savings,2I_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,KS,Vision Savings K3,KS_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,RS,Cons Mastercard Sav,RS_000_01,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,8M,Vision Savings 66,8M_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,PS,Vision Savings PS,PS_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,BS,Vision Business BS,BS_082_00,Savings,Public Funds,null,N,Y,Savings Public Funds,20015000
+PNFP,S7,Business SAV MCCOC,S7_000_00,Savings,Commercial,null,N,N,Savings Commercial,20013000
+PNFP,CS,Bus Mastercard Sav,CS_000_01,Savings,Commercial,null,N,N,Savings Commercial,20013000
+PNFP,CS,Bus Mastercard Sav,CS_000_00,Savings,Commercial,null,N,N,Savings Commercial,20013000
+PNFP,7V,Assoc Christmas Club,7V_000_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,MS,Beginner Savings MS,MS_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,2G,Christmas Club,2G_000_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,PS,Vision Savings PS,PS_082_00,Savings,Public Funds,null,N,Y,Savings Public Funds,20015000
+PNFP,OP,Vision Savings OP,OP_082_00,Savings,Public Funds,null,N,Y,Savings Public Funds,20015000
+PNFP,7X,Vision Savings 20,7X_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,8K,Vision Savings 34,8K_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,B3,Vision Savings B3,B3_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,7L,DNC Vision Business,7L_082_00,Savings,Public Funds,null,N,Y,Savings Public Funds,20015000
+PNFP,8K,Vision Savings 34,8K_000_01,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,BS,Vision Business BS,BS_082_00,Savings,Commercial,null,N,N,Savings Commercial,20013000
+PNFP,OP,Vision Savings OP,OP_082_00,Savings,Commercial,null,N,N,Savings Commercial,20013000
+PNFP,7X,Vision Savings 20,7X_000_01,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,PL,Rewards Savings,PL_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,7Y,Associate Vision Sav,7Y_000_01,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,7Y,Associate Vision Sav,7Y_000_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,7Y,Associate Vision Sav,7Y_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,7L,DNC Vision Business,7L_082_00,Savings,Commercial,null,N,N,Savings Commercial,20013000
+PNFP,8J,Vision Business 34,8J_082_00,Savings,Commercial,null,N,N,Savings Commercial,20013000
+PNFP,PK,Rewards SV SC,PK_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,2E,Vision Business,2E_082_00,Savings,Public Funds,null,N,Y,Savings Public Funds,20015000
+PNFP,2E,Vision Business,2E_000_00,Savings,Commercial,null,N,N,Savings Commercial,20013000
+PNFP,2E,Vision Business,2E_000_01,Savings,Commercial,null,N,N,Savings Commercial,20013000
+PNFP,7M,DNC Vision Savings,7M_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,2E,Vision Business,2E_000_00,Savings,Public Funds,null,N,Y,Savings Public Funds,20015000
+PNFP,2F,Vision Savings,2F_082_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,2F,Vision Savings,2F_000_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,2E,Vision Business,2E_082_00,Savings,Commercial,null,N,N,Savings Commercial,20013000
+PNFP,2F,Vision Savings,2F_000_01,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,7M,DNC Vision Savings,7M_000_01,Savings,Consumer,null,N,N,Savings Consumer,20014000
+PNFP,S4,Savings Minor MCCOC,S4_000_00,Savings,Consumer,null,N,N,Savings Consumer,20014000
+SNV,13,ACCESS CHECKING,013_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+SNV,21,MILITARY INTEREST CK,021_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+SNV,6,BUDGET CHECKING,006_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+SNV,175,GLOBAL 1,175_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,11,MILITARY BASIC CHECK,011_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+SNV,8,TSYS CHECKING,008_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+SNV,1,FREE CHECKING,001_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+SNV,7,WORKPLACE CHECKING,007_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+SNV,5,STUDENT CHECKING,005_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+SNV,157,BUSINESS CHK FCB,157_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,75,COMMERCIAL CHECKING,075_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,3,EMPLOYEE CHECKING,003_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+SNV,156,SMALL BUSINESS FCB,156_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,25,SIGNATURE GOLD CK,025_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+SNV,765,PLUS CHECKING,765_000_00,NIB DDA,Consumer,Standard,N,N,NIB DDA Consumer,20005000
+SNV,300,SCM CHECKING,300_000_00,NIB DDA,Public Funds,,N,Y,NIB DDA Public Funds,20007000
+SNV,200,NONPROFIT CHECKING,200_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,168,VASA SUB ACCOUNT,168_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,85,BUSINESS SAVINGS,085_000_00,Savings,Commercial,,N,N,Savings Commercial,20013000
+SNV,100,DO NOT USE,100_082_00,NIB DDA,Commercial,Exception,N,N,NIB DDA Commercial,20006000
+SNV,100,DO NOT USE,100_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,117,CORPORATE ANALYSIS,117_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,85,BUSINESS SAVINGS,085_082_00,Savings,Commercial,,N,N,Savings Commercial,20013000
+SNV,114,PERFORMANCE BUSINESS,114_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,39,DESA SUB ACCOUNT,039_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,158,SMALL BUS CK FCB,158_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,167,VASA MASTER,167_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,76,DUE TO BANKS,076_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,151,PREFERRED BUSINESS,151_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,150,PRO BUSINESS CHECKIN,150_000_00,NIB DDA,Commercial,Standard,N,N,NIB DDA Commercial,20006000
+SNV,250,US GOVT CHECKING,250_000_00,NIB DDA,Public Funds,,N,N,NIB DDA Public Funds,20007000
+SNV,45,PERSONAL SAVINGS,045_082_00,Savings,Consumer,,N,N,Savings Consumer,20014000
+SNV,340,SCM SAVINGS,340_000_00,Savings,Public Funds,,N,Y,Savings Public Funds,20015000
+SNV,961,CORRESPONDENT SWEEP,961_000_01,IB DDA,Commercial,Indexed,N,N,IB DDA Commercial Indexed,20027000
+SNV,42,MINOR SAVINGS,042_000_00,Savings,Consumer,,N,N,Savings Consumer,20014000
+SNV,45,PERSONAL SAVINGS,045_000_00,Savings,Consumer,,N,N,Savings Consumer,20014000
+SNV,340,SCM SAVINGS,340_082_00,Savings,Public Funds,,N,Y,Savings Public Funds,20015000
+SNV,99,COMMERCIAL DEMAND,099_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+SNV,43,EMPLOYEE SAVINGS,043_000_00,Savings,Consumer,,N,N,Savings Consumer,20014000
+SNV,340,SCM SAVINGS,340_000_01,Savings,Public Funds,,N,Y,Savings Public Funds,20015000
+SNV,42,MINOR SAVINGS,042_082_00,Savings,Consumer,,N,N,Savings Consumer,20014000
+SNV,80,BUS INT CHECKING,080_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+SNV,40,SIGNATURE PERS SAV,040_082_00,Savings,Consumer,,N,N,Savings Consumer,20014000
+SNV,44,TSYS SAVINGS,044_000_00,Savings,Consumer,,N,N,Savings Consumer,20014000
+SNV,48,HOLIDAY SAVINGS,048_000_00,Savings,Consumer,,N,N,Savings Consumer,20014000
+SNV,40,SIGNATURE PERS SAV,040_000_00,Savings,Consumer,,N,N,Savings Consumer,20014000
+SNV,101,PREMIUM YIELD SWEEP,101_082_00,IB DDA,Commercial,Exception,N,N,IB DDA Commercial Exception,20026000
+SNV,774,INSPIRE CHECKING,774_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+SNV,775,GOLD CHECKING,775_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+SNV,777,SIGNATURE INTEREST,777_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+SNV,777,SIGNATURE INTEREST,777_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+SNV,220,NONPROFIT BUS INT CK,220_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+SNV,99,COMMERCIAL DEMAND,099_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+SNV,18,HEALTH SAVINGS ACCT,018_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+SNV,18,HEALTH SAVINGS ACCT,018_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+SNV,775,GOLD CHECKING,775_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+SNV,23,HSA INVESTMENT,023_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+SNV,776,PREFERRED ACCOUNT,776_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+SNV,79,SYNOVUS ADV ANALYSIS,079_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+SNV,770,PRIVATE WEALTH CHECK,770_082_00,IB DDA,Consumer,Exception,N,N,IB DDA Consumer Exception,20030000
+SNV,774,INSPIRE CHECKING,774_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+SNV,80,BUS INT CHECKING,080_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+SNV,101,PREMIUM YIELD SWEEP,101_000_00,IB DDA,Commercial,Standard,N,N,IB DDA Commercial Standard,20028000
+SNV,770,PRIVATE WEALTH CHECK,770_000_00,IB DDA,Consumer,Standard,N,N,IB DDA Consumer Standard,20032000
+SNV,36,DESA MM SUB ACCT,036_000_00,IB DDA Hybrid,Commercial,,N,N,IB DDA Hybrid Commercial,20034000
+SNV,320,SCM INTEREST CK,320_000_01,IB DDA,Public Funds,,N,Y,IB DDA Public Funds,20033000
+SNV,342,SCM PYS,342_000_00,IB DDA,Public Funds,,N,Y,IB DDA Public Funds,20033000
+SNV,301,SYNOVUS ADV SCM ANAL,301_000_00,IB DDA,Public Funds,,N,Y,IB DDA Public Funds,20033000
+SNV,320,SCM INTEREST CK,320_000_00,IB DDA,Public Funds,,N,Y,IB DDA Public Funds,20033000
+SNV,83,DESA 1031 EXCH MM,083_000_00,IB DDA Hybrid,Commercial,,N,N,IB DDA Hybrid Commercial,20034000
+SNV,164,DESA BUSINESS SUB,164_000_00,IB DDA Hybrid,Commercial,,N,N,IB DDA Hybrid Commercial,20034000
+SNV,81,DESA BUSINESS MASTER,081_082_00,IB DDA Hybrid,Commercial,,N,N,IB DDA Hybrid Commercial,20034000
+SNV,81,DESA BUSINESS MASTER,081_000_00,IB DDA Hybrid,Commercial,,N,N,IB DDA Hybrid Commercial,20034000
+SNV,35,DESA 1031 E CONS MMA,035_000_00,IB DDA Hybrid,Commercial,,N,N,IB DDA Hybrid Commercial,20034000
+SNV,320,SCM INTEREST CK,320_082_00,IB DDA,Public Funds,,N,Y,IB DDA Public Funds,20033000
+SNV,270,US GOVT INT CHECKING,270_000_00,IB DDA,Public Funds,,N,Y,IB DDA Public Funds,20033000
+SNV,222,DESA NON PROFIT INT,222_000_00,IB DDA Hybrid,Commercial,,N,N,IB DDA Hybrid Commercial,20034000
+SNV,36,DESA MM SUB ACCT,036_082_00,IB DDA Hybrid,Commercial,,N,N,IB DDA Hybrid Commercial,20034000
+SNV,163,DESA SUB BUSINESS,163_082_00,IB DDA Hybrid,Commercial,,N,N,IB DDA Hybrid Commercial,20034000
+SNV,222,DESA NON PROFIT INT,222_082_00,IB DDA Hybrid,Commercial,,N,N,IB DDA Hybrid Commercial,20034000
+SNV,163,DESA SUB BUSINESS,163_000_00,IB DDA Hybrid,Commercial,,N,N,IB DDA Hybrid Commercial,20034000
+SNV,451,ICS COMMERCIAL INT,451_082_00,ICS IB DDA,Commercial,,N,N,ICS IB DDA,20037000
+SNV,78,IOLTA,078_000_00,IB DDA IOLTA,Commercial,,N,N,IB DDA IOLTA,20036000
+SNV,450,ICS COMMERCIAL DDA,450_099_00,ICS IB DDA,Commercial,,N,N,ICS IB DDA,20039000
+SNV,95,COMMERCIAL MMKT,095_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+SNV,451,ICS COMMERCIAL INT,451_000_00,ICS IB DDA,Commercial,,N,N,ICS IB DDA,20037000
+SNV,94,COMMERCIAL MMA SWEEP,094_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+SNV,453,ICS SCM INTEREST ACC,453_082_00,ICS IB DDA,Commercial,,N,Y,ICS IB DDA,20037000
+SNV,450,ICS COMMERCIAL DDA,450_082_00,ICS IB DDA,Commercial,,N,N,ICS IB DDA,20039000
+SNV,38,RELATIONSHIP MMA,038_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+SNV,456,ICS SYN ADV ANALYSIS,456_000_00,ICS IB DDA,Commercial,,N,N,ICS IB DDA,20037000
+SNV,96,COMMERCIAL PREM MM,096_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+SNV,451,ICS COMMERCIAL INT,451_000_01,ICS IB DDA,Commercial,,N,N,ICS IB DDA,20037000
+SNV,450,ICS COMMERCIAL DDA,450_000_00,ICS NIB DDA,Commercial,,N,N,ICS NIB DDA,20039000
+SNV,86,ADVANTAGE COMM MM,086_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+SNV,96,COMMERCIAL PREM MM,096_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+SNV,34,ADVANTAGE MM,034_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+SNV,38,RELATIONSHIP MMA,038_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+SNV,30,SIGNATURE MONEY MKT,030_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+SNV,97,SPECIAL MONEY MARKET,097_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+SNV,32,FED FUNDS MMA,032_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+SNV,31,PREMIUM MONEY MARKET,031_082_00,MMA,Consumer,Exception,N,N,MMA Consumer Exception,20050000
+SNV,34,ADVANTAGE MM,034_000_00,MMA,Consumer,Standard,N,N,MMA Consumer Standard,20052000
+SNV,98,LARGE CORP PREM MMA,098_082_00,MMA,Commercial,Exception,N,N,MMA Commercial Exception,20046000
+SNV,31,PREMIUM MONEY MARKET,031_000_00,MMA,Consumer,Standard,N,N,MMA Consumer Standard,20052000
+SNV,30,SIGNATURE MONEY MKT,030_000_00,MMA,Consumer,Standard,N,N,MMA Consumer Standard,20052000
+SNV,95,COMMERCIAL MMKT,095_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+SNV,94,COMMERCIAL MMA SWEEP,094_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+SNV,119,INDEXED COMM MMA,119_000_01,MMA,Commercial,Indexed,N,N,MMA Commercial Indexed,20047000
+SNV,86,ADVANTAGE COMM MM,086_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+SNV,185,SPECIAL PURPOSE MMKT,185_000_00,MMA,Commercial,Standard,N,N,MMA Commercial Standard,20048000
+SNV,330,SCM MONEY MARKET,330_082_00,MMA,Public Funds,,N,Y,MMA Public Funds,20053000
+SNV,424,OFFICIAL CHECKS,424_000_00,NIB DDA,Internal,,N,N,NIB DDA Internal,20090600
+SNV,330,SCM MONEY MARKET,330_000_01,MMA,Public Funds,,N,Y,MMA Public Funds,20053000
+SNV,30,SIGNATURE MONEY MKT,030_000_01,MMA,Consumer,BDSP,Y,N,MMA Consumer BDSP,20049000
+SNV,196,LIDS CHECKING NC&B,196_000_00,Brokered DDA,Commercial,Standard,N,N,Brokered DDA,20091300
+SNV,199,LIDS MMA NC&B,199_082_00,Brokered MMA,Commercial,Exception,N,N,Brokered MMA,20091400
+SNV,330,SCM MONEY MARKET,330_000_00,MMA,Public Funds,,N,Y,MMA Public Funds,20053000
+SNV,776,PREFERRED ACCOUNT,776_000_01,IB DDA,Consumer,BDSP,Y,N,IB DDA Consumer BDSP,20029000
+SNV,194,LIDS CHECKING C&B,194_000_00,Brokered DDA,Commercial,Standard,N,N,Brokered DDA,20091300
+SNV,800,MORTGAGE ESCROW,800_000_00,NIB DDA,Internal,,N,N,NIB DDA Internal,20090600

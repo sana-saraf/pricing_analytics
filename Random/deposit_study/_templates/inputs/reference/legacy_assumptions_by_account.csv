@@ -1,0 +1,143 @@
+legacy_bank,AccountName,AccountNum,LegacyTrunc,LegacyBeta,LegacyCoreRatio
+PNFP,ICK - Public,210025,36,1,0.9602
+PNFP,ICK - IOLTA,210030,96,0.75,0.735
+PNFP,ICK - Fed Funds,210041,,0.8,0.8092
+PNFP,ICK - Exception,210042,72,0.5,0.8466
+PNFP,ICS - DDA One Way,210050,,,
+PNFP,Eliminations - Interest Checking,210990,,,
+PNFP,DDAs - Non-Analyzed,211000,96,,0.676
+PNFP,ICK - HSA,211001,96,0.2,1
+PNFP,ICK - Consumer,211002,96,0.1,0.6759
+PNFP,DDAs - Analyzed,211007,96,,0.7041
+PNFP,DDA - Public,211201,60,,0.8459
+PNFP,DDA NonPost & Clearing,211902,,,
+PNFP,Internal DDAs,211903,,,0.1367
+PNFP,Eliminations - DDA,211990,,,
+PNFP,ICK - Trust,212112,60,0.95,0.9998
+PNFP,IBDDAs - Counterparty Collateral Accts,212200,,,
+PNFP,Eliminations - MMDA,221090,,,
+PNFP,MMDA - Aggregated,221100,60,0.4,0.8338
+PNFP,MMDA - Fed Funds,221201,60,0.8,0.8681
+PNFP,Regular Savings,222000,96,0.1,0.7057
+PNFP,Savings - Exception,222002,96,0.7,0.8677
+PNFP,ICK - Business,223000,96,0.2,0.9537
+PNFP,MMDA - RJBrokerage,224070,60,,0.9928
+PNFP,MMDA - IND,224360,,,
+PNFP,ICS - Fed Funds,224370,,1,0
+PNFP,ICS - Negotiated,224380,60,0.4,0.8739
+PNFP,MMDA - Public,225003,60,0.6,0.7882
+PNFP,ICS-Savings One Way,225100,,,
+PNFP,"30 Day <250,000",230000,,,
+PNFP,"60 Day <250,000",230001,,,
+PNFP,"3 Month <250,000",230002,,,
+PNFP,"6 Month <250,000",230003,,,
+PNFP,"7 Month <250,000",230004,,,
+PNFP,"12 Month <250,000",230005,,,
+PNFP,"15 Month <250,000",230006,,,
+PNFP,"18 Month <250,000",230007,,,
+PNFP,"24 Month <250,000",230008,,,
+PNFP,"25 Month <250,000",230009,,,
+PNFP,"30 Month <250,000",230010,,,
+PNFP,"36 Month <250,000",230011,,,
+PNFP,"60 Month <250,000",230012,,,
+PNFP,"Variable Rate <250,000",230013,,,
+PNFP,"Public Funds <250,000",230600,,,
+PNFP,"Public Funds >=250,000",230601,,,
+PNFP,"60 Day >=250,000",231002,,,
+PNFP,"3 Month >=250,000",231003,,,
+PNFP,Reciprocal CDARs,231004,,,
+PNFP,"6 Month >=250,000",231006,,,
+PNFP,"7 Month >=250,000",231007,,,
+PNFP,"12 Month >=250,000",231008,,,
+PNFP,"15 Month >=250,000",231009,,,
+PNFP,"18 Month >=250,000",231010,,,
+PNFP,"24 Month >=250,000",231011,,,
+PNFP,"25 Month >=250,000",231012,,,
+PNFP,"30 Month >=250,000",231013,,,
+PNFP,"36 Month >=250,000",231014,,,
+PNFP,"60 Month >=250,000",231015,,,
+PNFP,Brokered CDs,233000,,,
+PNFP,One-Way CDARs,233020,,,
+PNFP,CDs Other,235000,,,
+PNFP,Eliminations - CDs,235001,,,
+PNFP,Savings - Sweep Collateralized,240001,96,,0.8863
+PNFP,FHLB Advances - Bullet Fixed,240005,,,
+PNFP,Tax Payables,250015,,,
+PNFP,Other Liabilities,256000,,,
+PNFP,Trust Prefered Securities,257000,,,
+PNFP,Subordinated Debt,257450,,,
+SNV,SNV - DDA Consumer,20005000,144,,0.7904
+SNV,SNV - DDA Commercial,20006000,144,,0.8327
+SNV,SNV - DDA Small Business,20007000,144,,0.861
+SNV,SNV - DDA  Public Funds,20008000,90,,0.8362
+SNV,SNV - DDA ICS,20009000,144,,0.7593
+SNV,SNV - DDA Other,20010000,144,,0.969
+SNV,SNV - DDA Residuals,20010500,,,
+SNV,SNV - SAV Consumer Standard,20013000,144,0.05,0.8681
+SNV,SNV - SAV Consumer Exception,20014000,144,0.05,0.9429
+SNV,SNV - SAV Commercial Standard,20017000,144,0.05,0.8663
+SNV,SNV - SAV Commercial Exception,20018000,144,0.05,0.9381
+SNV,SNV - SAV Public Funds Standard,20021000,54,0.05,0.996
+SNV,SNV - SAV Public Funds Exception,20022000,54,0.05,0.9982
+SNV,SNV - SAV Public Funds Index,20023000,,,1
+SNV,SNV - NOW Consumer Standard,20026000,144,0,0.8656
+SNV,SNV - NOW Consumer Exception,20027000,96,0.5,0.533
+SNV,SNV - NOW Consumer Index,20028000,,0.45,1
+SNV,SNV - NOW Commercial Standard,20032000,144,0,0.8262
+SNV,SNV - NOW Commercial Exception,20033000,96,0.7,0.9583
+SNV,SNV - NOW Commercial Index,20034000,,,0.9895
+SNV,SNV - NOW Commercial Hybrid,20035000,144,0.25,0.8713
+SNV,SNV - NOW Commercial ICS,20036000,,0.75,0.9003
+SNV,SNV - NOW Public Funds Standard,20038000,54,0.2,0.9721
+SNV,SNV - NOW Public Funds Exception,20039000,54,0.2,0.9583
+SNV,SNV - NOW Public Funds Index,20040000,54,,0.9823
+SNV,SNV - NOW Public Funds Hybrid,20041000,54,0.65,0.952
+SNV,SNV - NOW Public Funds ICS,20042000,,0.75,1
+SNV,SNV - MMA Consumer Standard,20046000,90,0.3,0.9273
+SNV,SNV - MMA Consumer Exception,20047000,90,0.75,0.8884
+SNV,SNV - MMA Consumer Index,20048000,90,0.45,1
+SNV,SNV - MMA Commercial Standard,20050000,90,0.2,0.9002
+SNV,SNV - MMA Commercial Exception,20051000,90,0.7,0.8889
+SNV,SNV - MMA Commercial Index,20052000,90,,0.8831
+SNV,SNV - MMA Public Funds Standard,20054000,90,0.4,0.9464
+SNV,SNV - MMA Public Funds Exception,20055000,90,0.5,0.986
+SNV,SNV - MMA Public Funds Index,20056000,90,,0.9906
+SNV,SNV - CDs_<_250k_1M,20060000,,,
+SNV,SNV - CDs_<_250k_3M,20061000,,,
+SNV,SNV - CDs_<_250k_6M,20062000,,,
+SNV,SNV - CDs_<_250k_1Y,20063000,,,
+SNV,SNV - CDs_<_250k_18M,20064000,,,
+SNV,SNV - CDs_<_250k_2Y,20065000,,,
+SNV,SNV - CDs_<_250k_3Y,20066000,,,
+SNV,SNV - CDs_<_250k_4Y,20067000,,,
+SNV,SNV - CDs_<_250k_5Y,20068000,,,
+SNV,SNV - Pub Funds_CDs_<_250k,20069000,,,
+SNV,SNV - CDs_>_250k_1M,20073000,,,
+SNV,SNV - CDs_>_250k_3M,20074000,,,
+SNV,SNV - CDs_>_250k_6M,20075000,,,
+SNV,SNV - CDs_>_250k_1Y,20076000,,,
+SNV,SNV - CDs_>_250k_18M,20077000,,,
+SNV,SNV - CDs_>_250k_2Y,20078000,,,
+SNV,SNV - CDs_>_250k_3Y,20079000,,,
+SNV,SNV - CDs_>_250k_4Y,20080000,,,
+SNV,SNV - CDs_>_250k_5Y,20081000,,,
+SNV,SNV - Pub Funds_CDs_>_250k,20082000,,,
+SNV,SNV - CDs_GL Items,20085000,,,
+SNV,SNV - Brokered_CDs_Unhedged,20088000,,,
+SNV,SNV - Brokered_NMD,20091000,,,
+SNV,SNV - Brokered_NMD_LIDs,20091200,,,
+SNV,SNV - Brokered_CDs_GL Items,20093000,,,
+SNV,SNV - FFP_Affiliated,20095000,,,
+SNV,SNV - FFP_Non_Affiliated,20096000,,,
+SNV,SNV - Repos,20098000,,,
+SNV,SNV - Notes_Payable_Senior,20100000,,,
+SNV,SNV - Notes_Payable_Subordinated,20101000,,,
+SNV,SNV - Other_Notes_Payable_Variable,20102000,,,
+SNV,SNV - Notes_Payable_Intercompany,20103000,,,
+SNV,SNV - Notes_Payable_GL Items,20105000,,,
+SNV,SNV - FHLB_Pay_Fixed,20107000,,,
+SNV,SNV - FHLB_Pay_DRC,20109000,,,
+SNV,SNV - Other_NonInt_Liabilities,20111000,,,
+SNV,SNV - Accrued_Interest_Earned,20113000,,,
+SNV,SNV - CF_Hedge_FV_Liability,20114000,,,
+SNV,SNV - Broke_CD_Hedge_FV_Liability,20114100,,,
